@@ -1,6 +1,6 @@
 electricity:
-  phone_number: ""
-  password: ""
+  phone_number: "13655835005"
+  password: "An13655835005"
   deiver_impltcity_wait_time: 60
   retry_times_limit: 5
   login_expected_time: 60
