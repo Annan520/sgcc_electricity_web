@@ -18,8 +18,8 @@ map:
 image: 'crpi-djdbf2lzhff05hy6.cn-beijing.personal.cr.aliyuncs.com/javedhb/sgcc_electricity_web'
 options:
   electricity:
-    phone_number: null 
-    password: null
+    phone_number: 13655835005 
+    password: An13655835005
     deiver_impltcity_wait_time: 60
     retry_times_limit: 5
     login_expected_time: 60
