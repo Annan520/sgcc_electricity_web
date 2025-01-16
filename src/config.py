@@ -28,8 +28,8 @@ if platform.system() == 'Windows':
     DEBUG = True
 
 electricity = {
-    'phone_number': data['electricity']['phone_number']
-    ,'password': data['electricity']['password']
+    '13655835005': data['electricity']['phone_number']
+    ,'An13655835005': data['electricity']['password']
     ,'deiver_impltcity_wait_time': int(data['electricity'].get('deiver_impltcity_wait_time', '60'))
     ,'retry_times_limit': int(data['electricity'].get('retry_times_limit', '5'))
     ,'login_expected_time': int(data['electricity'].get('login_expected_time', '60'))
